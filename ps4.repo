@@ -1,0 +1,5 @@
+[ps4_]
+name=ps4-rpms-stable
+baseurl=https://raw.githubusercontent.com/IT-mania/RPMS-ST/master/stable
+enabled=1
+gpgcheck=0
